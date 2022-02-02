@@ -1,4 +1,4 @@
-# ImageProcessing
+# ImageFiltering
 ![image](https://user-images.githubusercontent.com/60841067/152162239-929d04b3-2331-4652-b4c6-04a31c8eb328.png)
 ![image](https://user-images.githubusercontent.com/60841067/152162376-4b222967-05b0-4f39-bfd3-84283f3b6a0b.png)
 ![image](https://user-images.githubusercontent.com/60841067/152162419-cb6176c8-355f-42b1-864d-39104175d6df.png)
